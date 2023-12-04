@@ -9,7 +9,7 @@ LocalCar é uma aplicação full stack web e mobile construída durante a Trilha
 A aplicação consiste na construção de um website responsivo de vendas.
 
 ## Layout mobile
-![Mobile 1](https://github.com/draude-OR/ASSETS/blob/main/layout%20mobile.png)
+![Mobile 1](https://github.com/draude-OR/ASSETS/blob/main/MOBILE%20C.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
