@@ -40,4 +40,4 @@ git clone https://github.com/draude-OR/LocalCar
 
 Eduardo Oldenburg Rodrigues
 
-https://www.linkedin.com/in/eduardo-oldenburg-rodrigues-6a666829a/
+https://www.linkedin.com/in/draude/
