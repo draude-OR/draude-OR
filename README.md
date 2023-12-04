@@ -12,9 +12,7 @@ A aplicação consiste na construção de um website responsivo de vendas.
 ![Mobile 1](https://github.com/draude-OR/ASSETS/blob/main/MOBILE%20C.png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 1](https://github.com/draude-OR/ASSETS/blob/main/WEB.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
@@ -22,24 +20,15 @@ A aplicação consiste na construção de um website responsivo de vendas.
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- 
 ## Front end
 - HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- BootStrap
+- 
 ## Implantação em produção
-- Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
 
 # Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
